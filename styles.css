@@ -1,0 +1,29 @@
+body {
+
+}
+
+
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+img {
+  height: 15%;
+  width: 15%;
+}
+
+
+.navBar {
+    width: 100%;
+    text-align: center;
+}
+
+
+.cupcake{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
