@@ -2,8 +2,6 @@ body {
 
 }
 
-
-
 .flashy {
   color: red;
   font-style: italic;
@@ -14,6 +12,12 @@ img {
   width: 15%;
 }
 
+.best{
+  height: 25%;
+  width: 25%;
+  align-items: center;
+  background-color: royalblue;
+}
 
 .navBar {
     width: 100%;
